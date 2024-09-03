@@ -63,6 +63,7 @@ while True:
         print("==========================================")
 
     elif opcao == "q":
+        print("\n================ Obrigado por usar nossos serviços! Volte sempre. ================")
         break
 
     else:
